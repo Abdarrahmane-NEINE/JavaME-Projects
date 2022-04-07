@@ -1,0 +1,9 @@
+MIDlet-2: GestionInventaireMidlet, , gestioninventaire.GestionInventaireMidlet
+MIDlet-3: ListImage, , gestioninventaire.ListImage
+MIDlet-4: FormDatabaseMidlet, , gestioninventaire.FormDatabaseMidlet
+MIDlet-1: HelloMIDlet, , gestioninventaire.HelloMIDlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: GestionInventaire
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

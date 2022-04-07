@@ -1,0 +1,9 @@
+MIDlet-1: HelloMIDlet, , listimage.HelloMIDlet
+MIDlet-2: ListImage, , listimage.ListImage
+MIDlet-Jar-Size: 42060
+MIDlet-Jar-URL: ListImage.jar
+MIDlet-Name: ListImage
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

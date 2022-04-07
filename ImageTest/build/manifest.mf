@@ -1,0 +1,8 @@
+MIDlet-2: ImageItemExample, , imagetest.ImageItemExample
+MIDlet-3: AppendImage, , imagetest.AppendImage
+MIDlet-1: HelloMIDlet, , imagetest.HelloMIDlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: ImageTest
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

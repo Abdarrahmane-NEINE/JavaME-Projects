@@ -1,0 +1,7 @@
+MIDlet-2: ImageMidlet, , imagemidlet.ImageMidlet
+MIDlet-1: HelloMIDlet, , imagemidlet.HelloMIDlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: ImageMidlet
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
